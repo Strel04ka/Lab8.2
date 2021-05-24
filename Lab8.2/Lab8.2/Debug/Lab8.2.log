@@ -1,0 +1,4 @@
+﻿  Lab8.2.cpp
+C:\Users\Oleg\source\repos\Lab8.2\Lab8.2\Lab8.2.cpp(15,74): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Oleg\source\repos\Lab8.2\Lab8.2\Lab8.2.cpp(26,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Lab8.2.vcxproj -> C:\Users\Oleg\source\repos\Lab8.2\Debug\Lab8.2.exe
